@@ -1,0 +1,22 @@
+{
+“manifest_version”: 2,
+“name”: “Website Name“,
+“description”: “Description of website“,
+“version”: “1.0”,
+“icons”: {
+“128”: “wiki.png”
+},
+“app”: {
+“urls”: [
+“http://wiki.cliqr.com/”
+
+],
+“launch”: {
+“web_url”: “http://wiki.cliqr.com/”
+}
+},
+“permissions”: [
+“unlimitedStorage”,
+“notifications”
+]
+}

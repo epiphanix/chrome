@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "CliQr AnswerHub",
+"description": "CliQr AnswerHub",
+"version": "1.1",
+"icons": {
+"128": "answer.png"
+},
+"app": {
+"urls": [
+"http://cliqr.cloud.answerhub.com/users/login.html"
+],
+"launch": {
+"web_url": "http://cliqr.cloud.answerhub.com/users/login.html"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}

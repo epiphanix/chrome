@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "CliQr Docs",
+"description": "CliQr Docs",
+"version": "1.1",
+"icons": {
+"128": "docs.png"
+},
+"app": {
+"urls": [
+"http://docs.cliqr.com"
+],
+"launch": {
+"web_url": "http://docs.cliqr.com"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}

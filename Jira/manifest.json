@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "CliQr JIRA",
+"description": "CliQr KIRA",
+"version": "1.1",
+"icons": {
+"128": "jira.png"
+},
+"app": {
+"urls": [
+"http://projects.cliqr.com"
+],
+"launch": {
+"web_url": "http://projects.cliqr.com"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}

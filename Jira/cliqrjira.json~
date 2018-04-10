@@ -1,0 +1,22 @@
+{
+“manifest_version”: 2,
+“name”: “Website Name“,
+“description”: “Description of website“,
+“version”: “1.0”,
+“icons”: {
+“128”: “jira.png”
+},
+“app”: {
+“urls”: [
+“http://projects.cliqr.com/”
+
+],
+“launch”: {
+“web_url”: “http://projects.cliqr.com/”
+}
+},
+“permissions”: [
+“unlimitedStorage”,
+“notifications”
+]
+}
